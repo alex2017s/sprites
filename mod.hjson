@@ -1,0 +1,6 @@
+name: "[#FF0E00]ruby ore mod"
+displayName: "[#33eeee]Diamond[] Mod" //what displays in the mod selection menu
+author: "alex"
+description: "[#FFCE00]mod que adiciona rubys"
+version: "[#9cb6f4]0.1[]"
+minGameVersion: "118"
